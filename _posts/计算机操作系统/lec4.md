@@ -1,5 +1,5 @@
 ---
-title: post
+title: lec4
 date: 2023-03-11 21:57:27
 tags:
 categories: 
